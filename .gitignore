@@ -1,0 +1,4 @@
+appsetting*.json
+*.env
+.env
+*.bak
